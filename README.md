@@ -1,5 +1,3 @@
-Absolutely — here’s a professional **GitHub README for a Java + DSA question repository**, suitable for your placement preparation.
-
 # ☕ Java + DSA — Problem Solving Repository
 
 A structured collection of **Data Structures & Algorithms (DSA) problems solved in Java**, created to improve problem-solving skills and prepare for **coding interviews, placements, and competitive programming**.
